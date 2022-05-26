@@ -13,11 +13,7 @@
 
 
 ##Interest
- - language
-      C/C++ for CodingTest and boost library
-      Java for make WAS using SpringBoot
-      Python for DataProject and Django
-
+ 
 ## What I did
 
 
