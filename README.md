@@ -12,8 +12,15 @@
 
 
 
-##Interest
- 
+## Interest
+  - C/C++
+  	 - Codingtest, Boost lib
+  - Java
+  	- Spring Boot, JPA
+  - Python
+  	- Django 
+  	- Tensorflow, Keras
+
 ## What I did
 
 
